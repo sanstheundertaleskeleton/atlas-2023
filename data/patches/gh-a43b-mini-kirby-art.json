@@ -1,0 +1,32 @@
+{
+	"id": 2055,
+	"name": "Mini Kirby Art",
+	"description": "A small Kirby pixel art that was made by a group of people after an old piece of Kirby pixel art was attacked, the r/place Touhou discord assisted in the help of making the pixel art.",
+	"links": {},
+	"path": {
+		"210-258": [
+			[
+				-1431,
+				-654
+			],
+			[
+				-1431,
+				-643
+			],
+			[
+				-1418,
+				-643
+			],
+			[
+				-1418,
+				-654
+			]
+		]
+	},
+	"center": {
+		"210-258": [
+			-1424,
+			-648
+		]
+	}
+}
