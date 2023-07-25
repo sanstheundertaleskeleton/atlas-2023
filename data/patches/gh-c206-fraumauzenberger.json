@@ -1,0 +1,39 @@
+{
+	"id": 2055,
+	"name": "FrauMauzenberger",
+	"description": "FrauMauzenberger is a small Twitch Partner and german Vtuber. She does cozy gaming streams and informative Videos about japan, the japanese language and culture. Her stream is considered a safe space for people of every group.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/fraumauzenberger/"
+		],
+		"discord": [
+			"FrauMauzenberger"
+		]
+	},
+	"path": {
+		"210-223": [
+			[
+				-1431,
+				-654
+			],
+			[
+				-1431,
+				-643
+			],
+			[
+				-1418,
+				-643
+			],
+			[
+				-1418,
+				-654
+			]
+		]
+	},
+	"center": {
+		"210-223": [
+			-1424,
+			-648
+		]
+	}
+}
